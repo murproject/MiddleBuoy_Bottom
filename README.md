@@ -14,4 +14,4 @@
 - [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)
 - [BlueRobotics MS5837 Library](https://github.com/bluerobotics/BlueRobotics_MS5837_Library)
 
-Чтобы установить эти библиотеки откройте менеджер библиотек в Arduino IDE: Скетч / Покдлючить библиотеку / Управлять библиотеками. Введите в поиск **Adafruit NeoPixel** и установите библиотеку. Аналогичным образом установите **BlueRobotics MS5837 Library**.
+Чтобы установить эти библиотеки, откройте менеджер библиотек в Arduino IDE: Скетч / Подключить библиотеку / Управлять библиотеками. Введите в поиск **Adafruit NeoPixel** и установите библиотеку. Аналогичным образом установите **BlueRobotics MS5837 Library**.
